@@ -2,6 +2,439 @@
   "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts7@20261011/fonts",
   "fonts": [
     {
+      "id": "binggrae",
+      "family": "binggrae",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/binggrae_otf/binggrae.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) BINGGRAE . and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빙그레체",
+          "en": "Binggrae"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;Binggrae-Bold"
+        },
+        "Full Font Name": {
+          "ko": "빙그레체 Bold",
+          "en": "Binggrae Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20190517"
+        },
+        "PostScript Name": {
+          "en": "Binggrae-Bold"
+        },
+        "Trademark": {
+          "en": "Binggrae Bold is a trademark of BINGGRAE ."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com/license"
+        }
+      }
+    },
+    {
+      "id": "binggrae2",
+      "family": "binggrae2",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/binggrae_otf/binggrae2.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) BINGGRAE. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빙그레체Ⅱ",
+          "en": "BinggraeⅡ"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;BinggraeTogether-Bold"
+        },
+        "Full Font Name": {
+          "ko": "빙그레체Ⅱ Bold",
+          "en": "BinggraeⅡ Bold"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20190517"
+        },
+        "PostScript Name": {
+          "en": "BinggraeII-Bold"
+        },
+        "Trademark": {
+          "en": "BinggraeⅡ Bold is a trademark of BINGGRAE."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "한도희,임광규,이주현,송영민,장주훈",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "binggraemelona",
+      "family": "binggraemelona",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/binggrae_otf/binggraemelona.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) BINGGRAE. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빙그레 메로나체",
+          "en": "Binggrae Melona"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;BinggraeMelona-Bold"
+        },
+        "Full Font Name": {
+          "ko": "빙그레 메로나체 Bold",
+          "en": "Binggrae Melona Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20191002"
+        },
+        "PostScript Name": {
+          "en": "BinggraeMelona-Bold"
+        },
+        "Trademark": {
+          "en": "Binggrae Melona Bold is a trademark of BINGGRAE."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "임광규; 박수진; 한도희",
+          "en": "Im, Kwangkyu; Park, Soojin; Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "binggraesamanco",
+      "family": "binggraesamanco",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/binggrae_otf/binggraesamanco.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) BINGGRAE. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빙그레 싸만코체",
+          "en": "Binggrae Samanco"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;BinggraeSamanco-Bold"
+        },
+        "Full Font Name": {
+          "ko": "빙그레 싸만코체 Bold",
+          "en": "Binggrae Samanco Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20201008"
+        },
+        "PostScript Name": {
+          "en": "BinggraeSamanco-Bold"
+        },
+        "Trademark": {
+          "en": "Binggrae Samanco Bold is a trademark of BINGGRAE."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Huh, SuJung; Lee Chan Soul; Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
+      "id": "binggraetaom",
+      "family": "binggraetaom",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/binggrae_otf/binggraetaom.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) BINGGRAE. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "빙그레 따옴체",
+          "en": "Binggrae Taom"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;BinggraeTaom-Bold"
+        },
+        "Full Font Name": {
+          "ko": "빙그레 따옴체 Bold",
+          "en": "Binggrae Taom Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20190517"
+        },
+        "PostScript Name": {
+          "en": "BinggraeTaom-Bold"
+        },
+        "Trademark": {
+          "en": "Binggrae Taom Bold is a trademark of BINGGRAE."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "임광규; 박수진; 이혜임; 유형진; 이승협; 한도희",
+          "en": "Im, Kwangkyu; Park, Soojin; Lee, Hyeim; Yoo, HyeongJin; Lee, Seunghyub;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        }
+      }
+    },
+    {
       "id": "distort",
       "family": "distort",
       "categories": [

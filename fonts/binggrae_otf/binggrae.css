@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'binggrae';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./binggrae.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'binggrae';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./binggrae-bold.woff2') format('woff2');
+}
