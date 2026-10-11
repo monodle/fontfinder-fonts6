@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'distort';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./distort-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'distort';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./distort-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'graceserif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./graceserif-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'graceserif';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./graceserif-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jjomsaengi';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jjomsaengi-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'mihwakinbihaengjeopsiche';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./mihwakinbihaengjeopsiche-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nalsun';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nalsun-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'peartoucan';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./peartoucan-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'peartoucan';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./peartoucan-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'peartoucan';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./peartoucan-bold.woff2') format('woff2');
+}

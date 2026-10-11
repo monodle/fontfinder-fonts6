@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'nexon_warhaven';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon_warhaven_otf_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nexon_warhaven';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon_warhaven_otf_bold.woff2') format('woff2');
+}

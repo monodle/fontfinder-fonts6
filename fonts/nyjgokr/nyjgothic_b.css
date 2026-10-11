@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'nyjgothic_b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nyjgothic_b.woff2') format('woff2');
+}

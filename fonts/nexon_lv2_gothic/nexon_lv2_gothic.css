@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'nexon-lv2-gothic';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon-lv2-gothic-otf-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nexon-lv2-gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon-lv2-gothic-otf.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nexon-lv2-gothic';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon-lv2-gothic-otf-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nexon-lv2-gothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nexon-lv2-gothic-otf-bold.woff2') format('woff2');
+}

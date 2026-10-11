@@ -2,6 +2,158 @@
   "nextRepo": null,
   "fonts": [
     {
+      "id": "distort",
+      "family": "distort",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.001",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/distort.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 9,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "뒤틀림 Bold",
+          "en": "뒤틀림 Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.001;UKWN;Distort-Bold"
+        },
+        "Full Font Name": {
+          "ko": "뒤틀림 Bold",
+          "en": "뒤틀림 Bold"
+        },
+        "Version": {
+          "en": "Version 1.001"
+        },
+        "PostScript Name": {
+          "en": "Distort-Bold"
+        },
+        "Typographic Family": {
+          "ko": "뒤틀림",
+          "en": "뒤틀림"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "graceserif",
+      "family": "graceserif",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.001",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/graceserif.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "우아한 세리프",
+          "en": "우아한 세리프"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.001;UKWN;GraceSerif-Regular"
+        },
+        "Full Font Name": {
+          "ko": "우아한 세리프 Regular",
+          "en": "우아한 세리프 Regular"
+        },
+        "Version": {
+          "en": "Version 1.001"
+        },
+        "PostScript Name": {
+          "en": "GraceSerif-Regular"
+        },
+        "Typographic Family": {
+          "ko": "우아한 세리프",
+          "en": "우아한 세리프"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
       "id": "griun-mongtori",
       "family": "griun_mongtori",
       "categories": [
@@ -2259,6 +2411,1761 @@
         "Typographic Family": {
           "ko": "그리운 세종대왕바라기 김채은",
           "en": "Griun Sejong Baragi KimChaeeun"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "jjomsaengi",
+      "family": "jjomsaengi",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/jjomsaengi.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "쫌생이체",
+          "en": "쫌생이체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;UKWN;jjomsaengi-Regular"
+        },
+        "Full Font Name": {
+          "ko": "쫌생이체 Regular",
+          "en": "쫌생이체 Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "jjomsaengi-Regular"
+        },
+        "Typographic Family": {
+          "ko": "쫌생이체",
+          "en": "쫌생이체"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "mihwakinbihaengjeopsiche",
+      "family": "mihwakinbihaengjeopsiche",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/mihwakinbihaengjeopsiche.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "미확인 비행접시체",
+          "en": "미확인 비행접시체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;UKWN;MihwakinBihaengJeopsiChe-Regular"
+        },
+        "Full Font Name": {
+          "ko": "미확인 비행접시체 Regular",
+          "en": "미확인 비행접시체 Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "MihwakinBihaengJeopsiChe-Regular"
+        },
+        "Typographic Family": {
+          "ko": "미확인 비행접시체",
+          "en": "미확인 비행접시체"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "nalsun",
+      "family": "nalsun",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/nalsun.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "날선체",
+          "en": "날선체"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;UKWN;NalSun-Regular"
+        },
+        "Full Font Name": {
+          "ko": "날선체 Regular",
+          "en": "날선체 Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "NalSun-Regular"
+        },
+        "Typographic Family": {
+          "ko": "날선체",
+          "en": "날선체"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "nexen-tire",
+      "family": "nexen-tire",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexen-tire/nexen-tire.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright(c) Nexentire Co., Ltd.",
+          "en": "Copyright(c) Nexentire Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "넥센_R",
+          "en": "Nexen_R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "넥센_R Regular",
+          "en": "Nexen_R Regular"
+        },
+        "Full Font Name": {
+          "ko": "넥센_R",
+          "en": "Nexen_R"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "Nexen_R",
+          "en": "Nexen_R"
+        }
+      }
+    },
+    {
+      "id": "nexon-bazzi",
+      "family": "bazzi",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_bazzi/nexon_bazzi.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.nexon.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2019 NEXON. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2019 NEXON. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "배찌체 OTF",
+          "en": "Bazzi OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "BazziOTFRegular"
+        },
+        "Full Font Name": {
+          "ko": "배찌체 OTF",
+          "en": "Bazzi OTF"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "BazziOTFRegular"
+        },
+        "Trademark": {
+          "en": "Bazzi OTF is a registered trademark of NEXON."
+        },
+        "Manufacturer": {
+          "en": "NEXON"
+        },
+        "Designer": {
+          "ko": "박용락; 조소희;",
+          "en": "Park Young-rak; Cho So-hee;"
+        },
+        "URL Vendor": {
+          "en": "http://www.nexon.com"
+        },
+        "Typographic Family": {
+          "ko": "배찌체 OTF",
+          "en": "Bazzi OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "nexon-football-gothic-b",
+      "family": "nexon-football-gothic-b",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_football_gothic/nexon-football-gothic-b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright ⓒ 2013 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다."
+        },
+        "Font Family": {
+          "ko": "넥슨 풋볼고딕 B",
+          "en": "NEXON Football Gothic B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;NEXONFootballGothicB"
+        },
+        "Full Font Name": {
+          "ko": "�ؽ� ǲ������ B",
+          "en": "NEXONFootballGothicB"
+        },
+        "Version": {
+          "en": "Version 1.000;build 20130926"
+        },
+        "PostScript Name": {
+          "en": "NEXONFootballGothicB"
+        },
+        "Trademark": {
+          "en": "NEXONFootballGothicB is a trademark of NEXON"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "넥슨 풋볼고딕",
+          "en": "NEXON Football Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "nexon-football-gothic-l",
+      "family": "nexon-football-gothic-l",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_football_gothic/nexon-football-gothic-l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright ⓒ 2013 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다."
+        },
+        "Font Family": {
+          "ko": "넥슨 풋볼고딕 L",
+          "en": "NEXON Football Gothic L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;NEXONFootballGothicL"
+        },
+        "Full Font Name": {
+          "ko": "�ؽ� ǲ������ L",
+          "en": "NEXONFootballGothicL"
+        },
+        "Version": {
+          "en": "Version 1.000;build 20130926"
+        },
+        "PostScript Name": {
+          "en": "NEXONFootballGothicL"
+        },
+        "Trademark": {
+          "en": "NEXONFootballGothicL is a trademark of NEXON."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "넥슨 풋볼고딕",
+          "en": "NEXON Football Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "nexon-kart-gothic",
+      "family": "nexon-kart-gothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500,
+        700,
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_kart_gothic/nexon_kart_gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (C) NEXON. All Rights Reserved.",
+          "en": "Copyright (C) NEXON. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "넥슨 카트 고딕 OTF Bold",
+          "en": "Kartrider OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "NEXON_넥슨 카트 고딕 OTF_Bold",
+          "en": "NEXON_Kartrider OTF_Bold"
+        },
+        "Full Font Name": {
+          "ko": "넥슨 카트 고딕 OTF Bold",
+          "en": "Kartrider OTF Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "KartriderOTFBold",
+          "en": "KartriderOTFBold"
+        },
+        "Trademark": {
+          "ko": "Kartrider OTF is a registered to NEXON.",
+          "en": "Kartrider OTF is a registered to NEXON."
+        },
+        "Manufacturer": {
+          "ko": "NEXON",
+          "en": "NEXON"
+        },
+        "Designer": {
+          "ko": "윤지희",
+          "en": "Yoon Ji hee"
+        },
+        "Typographic Family": {
+          "ko": "넥슨 카트 고딕 OTF",
+          "en": "Kartrider OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "nexon-lv1-gothic",
+      "family": "nexon-lv1-gothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_lv1_gothic/nexon-lv1-gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.nexon.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2017 NEXON. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2017 NEXON. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "넥슨Lv1고딕 OTF Bold",
+          "en": "NEXON Lv1 Gothic OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "NEXONLv1GothicOTFBold"
+        },
+        "Full Font Name": {
+          "ko": "넥슨Lv1고딕 OTF Bold",
+          "en": "NEXON Lv1 Gothic OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0.1; Build Release"
+        },
+        "PostScript Name": {
+          "en": "NEXONLv1GothicOTFBold"
+        },
+        "Trademark": {
+          "en": "NEXON Lv1 Gothic OTF Bold is a registered trademark of NEXON."
+        },
+        "Manufacturer": {
+          "en": "NEXON"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민;",
+          "en": "Park Young-rak; Lee Sang-min;"
+        },
+        "URL Vendor": {
+          "en": "http://www.nexon.com"
+        },
+        "Typographic Family": {
+          "ko": "넥슨Lv1고딕 OTF",
+          "en": "NEXON Lv1 Gothic OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "nexon-lv1-gothic-low",
+      "family": "nexon-lv1-gothic-low",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_lv1_gothic/nexon-lv1-gothic-low.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.nexon.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2017 NEXON. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2017 NEXON. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "넥슨Lv1고딕 Low OTF Bold",
+          "en": "NEXON Lv1 Gothic Low OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "NEXONLv1GothicLowOTFBold"
+        },
+        "Full Font Name": {
+          "ko": "넥슨Lv1고딕 Low OTF Bold",
+          "en": "NEXON Lv1 Gothic Low OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0.1; Build Release"
+        },
+        "PostScript Name": {
+          "en": "NEXONLv1GothicLowOTFBold"
+        },
+        "Trademark": {
+          "en": "NEXON Lv1 Gothic Low OTF Bold is a registered trademark of NEXON."
+        },
+        "Manufacturer": {
+          "en": "NEXON"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민;",
+          "en": "Park Young-rak; Lee Sang-min;"
+        },
+        "URL Vendor": {
+          "en": "http://www.nexon.com"
+        },
+        "Typographic Family": {
+          "ko": "넥슨Lv1고딕 Low OTF",
+          "en": "NEXON Lv1 Gothic Low OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "nexon-lv2-gothic",
+      "family": "nexon-lv2-gothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_lv2_gothic/nexon_lv2_gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.nexon.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2019 NEXON. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2019 NEXON. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "넥슨Lv2고딕 OTF Bold",
+          "en": "NEXON Lv2 Gothic OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "NEXONLv2GothicOTFBold"
+        },
+        "Full Font Name": {
+          "ko": "넥슨Lv2고딕 OTF Bold",
+          "en": "NEXON Lv2 Gothic OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "NEXONLv2GothicOTFBold"
+        },
+        "Trademark": {
+          "en": "NEXON Lv2 Gothic OTF Bold is a registered trademark of NEXON."
+        },
+        "Manufacturer": {
+          "en": "NEXON"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민; 김정진; 박한웅; 조소희;",
+          "en": "Park Young-rak; Lee Sang-min; Kim Jung-jin; Cho So-hee; Park Han-ung;"
+        },
+        "URL Vendor": {
+          "en": "http://www.nexon.com"
+        },
+        "Typographic Family": {
+          "ko": "넥슨Lv2고딕 OTF",
+          "en": "NEXON Lv2 Gothic OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "nexon-maplestory",
+      "family": "maplestory",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_maplestory/nexon_maplestory.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://maplestory.nexon.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2017 NEXON-Maplestory. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2017 NEXON-Maplestory. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "메이플스토리 OTF",
+          "en": "Maplestory OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "MaplestoryOTFBold"
+        },
+        "Full Font Name": {
+          "ko": "메이플스토리 OTF Bold",
+          "en": "Maplestory OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release;"
+        },
+        "PostScript Name": {
+          "en": "MaplestoryOTFBold"
+        },
+        "Trademark": {
+          "en": "Maplestory OTF Bold is a registered trademark of NEXON-Maplestory."
+        },
+        "Manufacturer": {
+          "en": "NEXON-Maplestory"
+        },
+        "Designer": {
+          "ko": "박용락; 김정진;",
+          "en": "Park Young-rak; Kim Jung-Jin;"
+        },
+        "URL Vendor": {
+          "en": "http://maplestory.nexon.com"
+        },
+        "Typographic Family": {
+          "ko": "메이플스토리 OTF",
+          "en": "Maplestory OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "nexon-warhaven",
+      "family": "nexon_warhaven",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.002",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nexon_warhaven/nexon_warhaven.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.nexon.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by NEXON Korea. All rights reserved.",
+          "en": "Copyright (c) 2023 by NEXON Korea. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "워헤이븐 OTF Regular",
+          "en": "Warhaven OTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "NEXON Korea;Warhaven OTF;Regular"
+        },
+        "Full Font Name": {
+          "ko": "워헤이븐 OTF Regular",
+          "en": "Warhaven OTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.002; Build 20230414"
+        },
+        "PostScript Name": {
+          "en": "WarhavenOTFR"
+        },
+        "Trademark": {
+          "en": "Warhaven OTF Regular is a registered trademark of NEXON Korea."
+        },
+        "Manufacturer": {
+          "en": "NEXON Korea"
+        },
+        "Designer": {
+          "ko": "Fontrix Inc.",
+          "en": "Fontrix Inc."
+        },
+        "URL Vendor": {
+          "en": "https://www.nexon.com/"
+        },
+        "Typographic Family": {
+          "ko": "워헤이븐 OTF",
+          "en": "Warhaven OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "nyjdasan-b",
+      "family": "nyjdasan_b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjdasan_b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 다산 B",
+          "en": "NYJ Dasan B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 다산 B Regular",
+          "en": "NYJ Dasan B Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 다산 B",
+          "en": "NYJ Dasan B"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Dasan B",
+          "en": "NYJ Dasan B"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjdasan-m",
+      "family": "nyjdasan_m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjdasan_m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 다산 M",
+          "en": "NYJ Dasan M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 다산 M Regular",
+          "en": "NYJ Dasan M Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 다산 M",
+          "en": "NYJ Dasan M"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Dasan M",
+          "en": "NYJ Dasan M"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjgothic",
+      "family": "nyjgothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjgothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 고딕 EB",
+          "en": "NYJ Gothic EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 고딕 EB Regular",
+          "en": "NYJ Gothic EB Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 고딕 EB",
+          "en": "NYJ Gothic EB"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Gothic EB",
+          "en": "NYJ Gothic EB"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjgothic-b",
+      "family": "nyjgothic_b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjgothic_b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 고딕 B",
+          "en": "NYJ Gothic B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 고딕 B Regular",
+          "en": "NYJ Gothic B Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 고딕 B",
+          "en": "NYJ Gothic B"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Gothic B",
+          "en": "NYJ Gothic B"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjgothic-l",
+      "family": "nyjgothic_l",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjgothic_l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 고딕 L",
+          "en": "NYJ Gothic L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 고딕 L Regular",
+          "en": "NYJ Gothic L Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 고딕 L",
+          "en": "NYJ Gothic L"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Gothic L",
+          "en": "NYJ Gothic L"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjgothic-m",
+      "family": "nyjgothic_m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjgothic_m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright",
+          "en": "Copyright"
+        },
+        "Font Family": {
+          "ko": "남양주 고딕 M",
+          "en": "NYJ Gothic M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "남양주 고딕 M Regular",
+          "en": "NYJ Gothic M Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 고딕 M",
+          "en": "NYJ Gothic M"
+        },
+        "Version": {
+          "ko": "Version",
+          "en": "Version"
+        },
+        "PostScript Name": {
+          "ko": "NYJ Gothicc M",
+          "en": "NYJ Gothic M"
+        },
+        "Trademark": {
+          "ko": "Trademark",
+          "en": "Trademark"
+        }
+      }
+    },
+    {
+      "id": "nyjunheo",
+      "family": "nyjunheo",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/nyjgokr/nyjunheo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.nyj.go.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2025 Namyangju City Government. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "남양주 운허체",
+          "en": "NYJ Unheo"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;Tlab;NYJUnheo-Regular"
+        },
+        "Full Font Name": {
+          "ko": "남양주 운허체",
+          "en": "NYJ Unheo"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20250924"
+        },
+        "PostScript Name": {
+          "en": "NYJUnheo-Regular"
+        },
+        "Trademark": {
+          "ko": "남양주 운허체는 남양주시청의 상표입니다.",
+          "en": "NYJUnheo is a trademark of Namyangju City Government."
+        },
+        "Manufacturer": {
+          "ko": "남양주시청",
+          "en": "Namyangju City Government."
+        },
+        "Designer": {
+          "ko": "(주)티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "https://www.nyj.go.kr/"
+        }
+      }
+    },
+    {
+      "id": "peartoucan",
+      "family": "peartoucan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.001",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/thisispearway/peartoucan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "페어 큰부리새",
+          "en": "페어 큰부리새"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.001;UKWN;PearToucan-Regular"
+        },
+        "Full Font Name": {
+          "ko": "페어 큰부리새 Regular",
+          "en": "페어 큰부리새 Regular"
+        },
+        "Version": {
+          "en": "Version 1.001"
+        },
+        "PostScript Name": {
+          "en": "PearToucan-Regular"
+        },
+        "Typographic Family": {
+          "ko": "페어 큰부리새",
+          "en": "페어 큰부리새"
         },
         "Typographic Subfamily": {
           "ko": "Regular",
