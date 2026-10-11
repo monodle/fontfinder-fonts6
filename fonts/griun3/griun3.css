@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'griun_mongtori';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_mongtori-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_myoamrikicheori';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_myoamrikicheori-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_myoeunddobak';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_myoeunddobak-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_myoeunheullim';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_myoeunheullim-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_naerijjoenhyunju';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_naerijjoenhyunju-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_naram';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_naram-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_neathandwriting';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_neathandwriting-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_noltotaenggu';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_noltotaenggu-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_nulnul';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_nulnul-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_oksooni';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_oksooni-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_omiri';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_omiri-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_onhandwriting';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_onhandwriting-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_perfume';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_perfume-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_perfume-rg-(1)';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_perfume-rg-(1).woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_polfairness';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_polfairness-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_polhumanrights';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_polhumanrights-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_polsensibility';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_polsensibility-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_pont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_pont-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_popcorn';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_popcorn-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_puhafont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_puhafont-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_resinnykkuukscript';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_resinnykkuukscript-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_sein';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_sein-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'griun_sejongbaragikimchaeeun';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_sejongbaragikimchaeeun-rg.woff2') format('woff2');
+}

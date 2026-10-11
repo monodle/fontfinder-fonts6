@@ -1,0 +1,2270 @@
+{
+  "nextRepo": null,
+  "fonts": [
+    {
+      "id": "griun-mongtori",
+      "family": "griun_mongtori",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_mongtori.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2024 타이비 & 황수연, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2024 © TypeE. Corp. & Hwang Su Yeon, All rights reserved. Modification of this file requires prior written permission from © TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 몽토리체",
+          "en": "Griun Mongtori"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_Mongtori-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 몽토리체 Rg",
+          "en": "Griun Mongtori Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_Mongtori-Rg"
+        },
+        "Trademark": {
+          "en": "Griun Mongtori is a trademark of © TypeE. Corp. & Hwang Su Yeon."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 몽토리체",
+          "en": "Griun Mongtori"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-myoamrikicheori",
+      "family": "griun_myoamrikicheori",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_myoamrikicheori.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김은선, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kim Eun Sun, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 묘암리 기철이",
+          "en": "Griun Myoamri Kicheori"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunMyoamriKicheori-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 묘암리 기철이 Regular",
+          "en": "Griun Myoamri Kicheori Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunMyoamriKicheori-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Myoamri Kicheori is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 묘암리 기철이",
+          "en": "Griun Myoamri Kicheori"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-myoeunddobak",
+      "family": "griun_myoeunddobak",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_myoeunddobak.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김효은, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kim Hyo Eun, All rights reserved. Modification of this file requires prior written permission from © TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 묘은또박체",
+          "en": "Griun Myoeun ddobak"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_Myoeunddobak-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 묘은또박체 Rg",
+          "en": "Griun Myoeun ddobak Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_Myoeunddobak-Rg"
+        },
+        "Trademark": {
+          "en": "Griun Myoeun ddobak is a trademark of © TypeE. Corp. & Kim Hyo Eun."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 묘은또박체",
+          "en": "Griun Myoeun ddobak"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-myoeunheullim",
+      "family": "griun_myoeunheullim",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_myoeunheullim.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김효은, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © © TypeE. Corp. & Kim Hyo Eun, All rights reserved. Modification of this file requires prior written permission from © TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 묘은흘림체",
+          "en": "Griun Myoeun Heullim"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunMyoeunHeullim-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 묘은흘림체 Regular",
+          "en": "Griun Myoeun Heullim Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunMyoeunHeullim-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Myoeun Heullim is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 묘은흘림체",
+          "en": "Griun Myoeun Heullim"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-naerijjoenhyunju",
+      "family": "griun_naerijjoenhyunju",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_naerijjoenhyunju.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 조현주, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Cho Hyun Ju, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 내리쬐는 현주체",
+          "en": "Griun Naerijjoen HyunJu"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunNaerijjoenHyunJu-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 내리쬐는 현주체 Regular",
+          "en": "Griun Naerijjoen HyunJu Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunNaerijjoenHyunJu-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Naerijjoen HyunJu is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 내리쬐는 현주체",
+          "en": "Griun Naerijjoen HyunJu"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-naram",
+      "family": "griun_naram",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_naram.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김나현, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & KIM NAHYEON, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 나람체",
+          "en": "Griun Naram"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_Naram-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 나람체 Rg",
+          "en": "Griun Naram Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_Naram-Rg"
+        },
+        "Trademark": {
+          "en": "Griun Naram is a trademark of TypeE. Corp. & KIM NAHYEON."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 나람체",
+          "en": "Griun Naram"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-neathandwriting",
+      "family": "griun_neathandwriting",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_neathandwriting.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김은중, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Eunjung Kim, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 단정한 손글씨",
+          "en": "Griun Neat handwriting"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunNeathandwriting-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 단정한 손글씨 Regular",
+          "en": "Griun Neat handwriting Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunNeathandwriting-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Neat handwriting is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 단정한 손글씨",
+          "en": "Griun Neat handwriting"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-noltotaenggu",
+      "family": "griun_noltotaenggu",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_noltotaenggu.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2024 타이비 & SM 엔터테인먼트, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2024 © TypeE. Corp. & SM Entertainment, All rights reserved. Modification of this file requires prior written permission from © TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 놀토서기탱구체",
+          "en": "Griun NoltoTAENGGU"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_NoltoTAENGGU-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 놀토서기탱구체 Rg",
+          "en": "Griun NoltoTAENGGU Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_NoltoTAENGGU-Rg"
+        },
+        "Trademark": {
+          "en": "Griun NoltoTAENGGU is a trademark of © TypeE. Corp. & SM Entertainment."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 놀토서기탱구체",
+          "en": "Griun NoltoTAENGGU"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-nulnul",
+      "family": "griun_nulnul",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_nulnul.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김누리, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kim nu ri, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 눌눌체",
+          "en": "Griun Nulnul"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunNulnul-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 눌눌체 Regular",
+          "en": "Griun Nulnul Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunNulnul-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Nulnul is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 눌눌체",
+          "en": "Griun Nulnul"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-oksooni",
+      "family": "griun_oksooni",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_oksooni.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김민주, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Minjoo Kim, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 옥수니 손글씨",
+          "en": "Griun Oksooni"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_Oksooni-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 옥수니 손글씨 Rg",
+          "en": "Griun Oksooni Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_Oksooni-Rg"
+        },
+        "Trademark": {
+          "en": "Griun Oksooni is a trademark of TypeE. Corp. & Minjoo Kim."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 옥수니 손글씨",
+          "en": "Griun Oksooni"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-omiri",
+      "family": "griun_omiri",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_omiri.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 오효경, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Hyo kyung Oh, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 오미리 손글씨",
+          "en": "Griun OMIRI"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunOMIRI-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 오미리 손글씨 Regular",
+          "en": "Griun OMIRI Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunOMIRI-Regular"
+        },
+        "Trademark": {
+          "en": "Griun OMIRI is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 오미리 손글씨",
+          "en": "Griun OMIRI"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-onhandwriting",
+      "family": "griun_onhandwriting",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_onhandwriting.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 문예솔, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Moon Ye Sol, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 오엔손글씨체",
+          "en": "Griun On handwriting"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunOnhandwriting-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 오엔손글씨체 Regular",
+          "en": "Griun On handwriting Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunOnhandwriting-Regular"
+        },
+        "Trademark": {
+          "en": "Griun On handwriting is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 오엔손글씨체",
+          "en": "Griun On handwriting"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-perfume",
+      "family": "griun_perfume",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_perfume.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김경언, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kim Kyeongeon, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 향수체",
+          "en": "Griun Perfume"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunPerfume-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 향수체 Regular",
+          "en": "Griun Perfume Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunPerfume-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Perfume is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 향수체",
+          "en": "Griun Perfume"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-perfume-rg--1",
+      "family": "griun_perfume-rg-(1)",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_perfume-rg-(1).css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 강지혜, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kang Ji Hye, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 향기체",
+          "en": "Griun Perfume"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunPerfume-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 향기체 Regular",
+          "en": "Griun Perfume Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunPerfume-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Perfume is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 향기체",
+          "en": "Griun Perfume"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-polfairness",
+      "family": "griun_polfairness",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_polfairness.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 고한비, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Go Han bi, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 경찰공평체",
+          "en": "Griun PolFairness"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_PolFairness-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 경찰공평체 Rg",
+          "en": "Griun PolFairness Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_PolFairness-Rg"
+        },
+        "Trademark": {
+          "en": "Griun PolFairness is a trademark of TypeE. Corp. & Go Han bi."
+        },
+        "Manufacturer": {
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 경찰공평체",
+          "en": "Griun PolFairness"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-polhumanrights",
+      "family": "griun_polhumanrights",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_polhumanrights.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김도원, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Kim Do Won, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 경찰인권체",
+          "en": "Griun PolHumanrights"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_PolHumanrights-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 경찰인권체 Rg",
+          "en": "Griun PolHumanrights Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_PolHumanrights-Rg"
+        },
+        "Trademark": {
+          "en": "Griun PolHumanrights is a trademark of TypeE. Corp. & Kim Do Won."
+        },
+        "Manufacturer": {
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 경찰인권체",
+          "en": "Griun PolHumanrights"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-polsensibility",
+      "family": "griun_polsensibility",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_polsensibility.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 이건우, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Lee Gun Woo, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 경찰감성체",
+          "en": "Griun PolSensibility"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_PolSensibility-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 경찰감성체 Rg",
+          "en": "Griun PolSensibility Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_PolSensibility-Rg"
+        },
+        "Trademark": {
+          "en": "Griun PolSensibility is a trademark of TypeE. Corp. & Lee Gun Woo."
+        },
+        "Manufacturer": {
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 경찰감성체",
+          "en": "Griun PolSensibility"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-pont",
+      "family": "griun_pont",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_pont.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 조수진, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & CHO SUJIN, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 손글씨",
+          "en": "Griun Pont"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunPont-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 손글씨 Regular",
+          "en": "Griun Pont Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunPont-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Pont is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 손글씨",
+          "en": "Griun Pont"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-popcorn",
+      "family": "griun_popcorn",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_popcorn.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 이윤정, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Lee Yoon Jeong, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 팝콘체",
+          "en": "Griun Popcorn"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunPopcorn-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 팝콘체 Regular",
+          "en": "Griun Popcorn Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunPopcorn-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Popcorn is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 팝콘체",
+          "en": "Griun Popcorn"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-puhafont",
+      "family": "griun_puhafont",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_puhafont.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 이세영, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Lee Seyoung, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 푸하체",
+          "en": "Griun Puha Font"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunPuhaFont-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 푸하체 Regular",
+          "en": "Griun Puha Font Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunPuhaFont-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Puha Font is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 푸하체",
+          "en": "Griun Puha Font"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-resinnykkuukscript",
+      "family": "griun_resinnykkuukscript",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_resinnykkuukscript.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 송진이, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Song Jin E, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 레지니 꾸욱체",
+          "en": "Griun Resinny Kkuuk Script"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;Griun_ResinnyKkuukScript-Rg"
+        },
+        "Full Font Name": {
+          "ko": "그리운 레지니 꾸욱체 Rg",
+          "en": "Griun Resinny Kkuuk Script Rg"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Griun_ResinnyKkuukScript-Rg"
+        },
+        "Trademark": {
+          "en": "Griun Resinny Kkuuk Script is a trademark of TypeE. Corp. & Song Jin E."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "그리운 레지니 꾸욱체",
+          "en": "Griun Resinny Kkuuk Script"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-sein",
+      "family": "griun_sein",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_sein.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 추세인, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & Chu Se In, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 세인",
+          "en": "Griun Sein"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunSein-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 세인 Regular",
+          "en": "Griun Sein Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunSein-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Sein is a trademark of © TypeE. Corp."
+        },
+        "Manufacturer": {
+          "en": "© TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 세인",
+          "en": "Griun Sein"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "griun-sejongbaragikimchaeeun",
+      "family": "griun_sejongbaragikimchaeeun",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts6@20261011/fonts/griun3/griun_sejongbaragikimchaeeun.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.griun.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 타이비 & 김채은, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 타이비의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © TypeE. Corp. & KIMCHAEEUN, All rights reserved. Modification of this file requires prior written permission from TypeE. Corp."
+        },
+        "Font Family": {
+          "ko": "그리운 세종대왕바라기 김채은",
+          "en": "Griun Sejong Baragi KimChaeeun"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;GRIU;GriunSejongBaragiKimChaeeun-Regular;"
+        },
+        "Full Font Name": {
+          "ko": "그리운 세종대왕바라기 김채은 Regular",
+          "en": "Griun Sejong Baragi KimChaeeun Regular"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "GriunSejongBaragiKimChaeeun-Regular"
+        },
+        "Trademark": {
+          "en": "Griun Sejong Baragi KimChaeeun is a trademark of TypeE. Corp."
+        },
+        "Manufacturer": {
+          "ko": "TypeE. Corp.",
+          "en": "TypeE. Corp."
+        },
+        "Designer": {
+          "ko": "그리운 타입 디자인팀",
+          "en": "Griun Type Design Team"
+        },
+        "URL Vendor": {
+          "en": "https://www.griun.co.kr"
+        },
+        "License Description": {
+          "ko": "https://www.griun.co.kr/license",
+          "en": "https://www.griun.co.kr/license"
+        },
+        "License Info URL": {
+          "en": "https://www.griun.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "그리운 세종대왕바라기 김채은",
+          "en": "Griun Sejong Baragi KimChaeeun"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    }
+  ]
+}

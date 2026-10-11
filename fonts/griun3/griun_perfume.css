@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'griun_perfume';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./griun_perfume-rg.woff2') format('woff2');
+}
